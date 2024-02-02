@@ -27,7 +27,7 @@ Bu bölümde, projenin nasıl kurulacağı ve çalıştırılacağına dair adı
 
 2. Projeyi yerel bilgisayarınıza klonlayın:
     ```bash
-    git clone https://github.com/[KullanıcıAdınız]/trafik-izleme-ve-hiz-radar-sistemi.git
+    git clone [https://github.com/benmertkocak/speed_detection_system.git]
     ```
 
 ### Kullanım
